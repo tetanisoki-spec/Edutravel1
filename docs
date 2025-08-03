@@ -1,1 +1,4 @@
-
+mkdir docs
+git add docs
+git commit -m "Ajout du dossier docs"
+git push
